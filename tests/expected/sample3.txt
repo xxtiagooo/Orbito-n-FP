@@ -1,0 +1,84 @@
+Bem-vindo ao ORBITO-2.
+Jogo contra o computador (facil).
+O jogador joga com 'O'.
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (facil):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:Escolha uma posicao livre:Escolha uma posicao livre:Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[X]-[O]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (facil):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[X]-[O]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[O]-[ ]-[O]
+    |   |   |   |
+02 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (facil):
+    a   b   c   d
+01 [O]-[ ]-[O]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [O]-[O]-[ ]-[ ]
+    |   |   |   |
+02 [O]-[X]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (facil):
+    a   b   c   d
+01 [O]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [O]-[X]-[X]-[ ]
+    |   |   |   |
+03 [O]-[X]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [O]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [O]-[X]-[X]-[ ]
+    |   |   |   |
+03 [O]-[X]-[X]-[ ]
+    |   |   |   |
+04 [O]-[ ]-[ ]-[ ]
+VITORIA

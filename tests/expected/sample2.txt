@@ -1,0 +1,111 @@
+Bem-vindo ao ORBITO-2.
+Jogo contra o computador (normal).
+O jogador joga com 'O'.
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+03 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[X]
+    |   |   |   |
+02 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[X]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+03 [ ]-[O]-[X]-[O]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[O]-[X]-[O]
+    |   |   |   |
+03 [X]-[X]-[O]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [X]-[ ]-[ ]-[O]
+    |   |   |   |
+02 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+03 [O]-[O]-[X]-[ ]
+    |   |   |   |
+04 [X]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[O]-[X]
+    |   |   |   |
+02 [X]-[O]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+04 [O]-[X]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[O]-[X]-[O]
+    |   |   |   |
+02 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+03 [X]-[O]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[O]-[X]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [O]-[X]-[O]-[X]
+    |   |   |   |
+02 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+04 [X]-[ ]-[O]-[X]
+DERROTA

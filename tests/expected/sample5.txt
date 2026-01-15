@@ -1,0 +1,128 @@
+Bem-vindo ao ORBITO-2.
+Jogo para dois jogadores.
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador 'O'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [O]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[X]-[ ]
+    |   |   |   |
+03 [O]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador 'O'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+03 [O]-[ ]-[X]-[ ]
+    |   |   |   |
+04 [O]-[ ]-[ ]-[ ]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [O]-[O]-[ ]-[ ]
+Turno do jogador 'O'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[O]-[O]-[O]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[X]-[X]
+    |   |   |   |
+03 [ ]-[X]-[X]-[O]
+    |   |   |   |
+04 [ ]-[ ]-[O]-[O]
+Turno do jogador 'O'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[X]
+    |   |   |   |
+02 [ ]-[X]-[X]-[O]
+    |   |   |   |
+03 [ ]-[ ]-[X]-[O]
+    |   |   |   |
+04 [O]-[ ]-[ ]-[O]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[X]-[O]
+    |   |   |   |
+02 [ ]-[X]-[X]-[O]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[O]
+    |   |   |   |
+04 [ ]-[O]-[ ]-[X]
+Turno do jogador 'O'.
+Escolha uma posicao livre:    a   b   c   d
+01 [O]-[X]-[O]-[O]
+    |   |   |   |
+02 [ ]-[X]-[ ]-[O]
+    |   |   |   |
+03 [ ]-[X]-[X]-[X]
+    |   |   |   |
+04 [ ]-[ ]-[O]-[ ]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [X]-[O]-[O]-[O]
+    |   |   |   |
+02 [O]-[X]-[X]-[X]
+    |   |   |   |
+03 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[O]
+Turno do jogador 'O'.
+Escolha uma posicao livre:    a   b   c   d
+01 [O]-[O]-[O]-[X]
+    |   |   |   |
+02 [X]-[X]-[X]-[ ]
+    |   |   |   |
+03 [O]-[X]-[X]-[O]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[O]
+Turno do jogador 'X'.
+Escolha uma posicao livre:    a   b   c   d
+01 [O]-[O]-[X]-[ ]
+    |   |   |   |
+02 [O]-[X]-[X]-[O]
+    |   |   |   |
+03 [X]-[X]-[X]-[O]
+    |   |   |   |
+04 [O]-[ ]-[X]-[ ]
+VITORIA DO JOGADOR 'X'

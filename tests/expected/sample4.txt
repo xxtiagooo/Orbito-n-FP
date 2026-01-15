@@ -1,0 +1,120 @@
+Bem-vindo ao ORBITO-2.
+Jogo contra o computador (normal).
+O jogador joga com 'X'.
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+03 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[ ]-[O]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [O]-[X]-[O]-[ ]
+    |   |   |   |
+03 [ ]-[X]-[ ]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[O]-[ ]-[ ]
+    |   |   |   |
+03 [O]-[X]-[X]-[X]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[ ]-[ ]
+    |   |   |   |
+02 [ ]-[O]-[X]-[X]
+    |   |   |   |
+03 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+04 [O]-[ ]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[ ]-[ ]-[X]
+    |   |   |   |
+02 [ ]-[X]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[O]-[O]-[X]
+    |   |   |   |
+04 [ ]-[O]-[ ]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [ ]-[ ]-[X]-[ ]
+    |   |   |   |
+02 [O]-[X]-[O]-[X]
+    |   |   |   |
+03 [ ]-[X]-[O]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[O]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [ ]-[X]-[X]-[X]
+    |   |   |   |
+02 [ ]-[O]-[O]-[ ]
+    |   |   |   |
+03 [O]-[X]-[X]-[ ]
+    |   |   |   |
+04 [ ]-[ ]-[ ]-[O]
+Turno do computador (normal):
+    a   b   c   d
+01 [X]-[X]-[X]-[ ]
+    |   |   |   |
+02 [ ]-[O]-[X]-[ ]
+    |   |   |   |
+03 [ ]-[O]-[X]-[O]
+    |   |   |   |
+04 [O]-[O]-[ ]-[ ]
+Turno do jogador.
+Escolha uma posicao livre:    a   b   c   d
+01 [X]-[X]-[ ]-[ ]
+    |   |   |   |
+02 [X]-[X]-[X]-[O]
+    |   |   |   |
+03 [X]-[O]-[O]-[ ]
+    |   |   |   |
+04 [ ]-[O]-[O]-[ ]
+Turno do computador (normal):
+    a   b   c   d
+01 [X]-[ ]-[O]-[O]
+    |   |   |   |
+02 [X]-[X]-[O]-[ ]
+    |   |   |   |
+03 [X]-[X]-[O]-[ ]
+    |   |   |   |
+04 [X]-[ ]-[O]-[O]
+EMPATE
